@@ -21,7 +21,7 @@
 
 ## 热键格式
 
-修饰键: ctrl, alt, shift, win
+修饰键: ctrl, alt, shift, win等
 主键: 字母(a-z)、数字(0-9)、功能键(f1-f12)等
 示例: ctrl+h, alt+f1, shift+ctrl+a
 ⚠️ 注意: 必须包含主键，不能只有修饰键（如 alt+ctrl 无效）
