@@ -32,7 +32,8 @@
 如有问题或建议，欢迎：
 
 提交 Issues
-联系邮箱：qying3107@gmail.com
+
+或者联系邮箱：qying3107@gmail.com
 
 # English
 
@@ -64,4 +65,5 @@ This tool is feature-complete and will not be actively updated.
 For issues or suggestions:
 
 Submit Issues
-Email: qying3107@gmail.com
+
+Or contact Email: qying3107@gmail.com
