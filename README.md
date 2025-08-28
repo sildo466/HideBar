@@ -1,4 +1,6 @@
-TaskBarHider
+*TaskBarHider*
+
+---
 
 **中文**
 一键隐藏/显示 Windows 任务栏的小工具。
