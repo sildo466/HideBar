@@ -2,7 +2,7 @@
 
 ---
 
-## 中文
+# 中文
 一键隐藏/显示 Windows 任务栏的小工具。
 
 ## 功能
@@ -34,7 +34,7 @@
 提交 Issues
 联系邮箱：qying3107@gmail.com
 
-## English
+# English
 
 A simple tool to hide/show Windows taskbar with custom hotkeys.
 Features
